@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91afae89d3df4484da78c16acc5f95d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - Triangle: {fileID: -5042945518876689958, guid: 90c502f7acfa1c444aa1f7f242a6cc9e, type: 3}
+  - Square: {fileID: 7734193607875631305, guid: fe40bb79fc3babb4397b5f1e17fea51e, type: 3}
+  - Rotationalsquare: {fileID: -4239858549697326655, guid: 0067596dc2f2bcd4cb22de0b86c5edaf, type: 3}
+  - Rotationaltriangle: {fileID: -2077133756836219429, guid: 6df7afefe6de66a42b1eaed9d3f22ee8, type: 3}
+  - Fallen_square: {fileID: -5079337135189801929, guid: 92ee9478fdd164c4ea16b87238b25666, type: 3}
+  - Fallen_triangle: {fileID: 9173100855388417575, guid: 78105220857ffe64c8d95678092c3197, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

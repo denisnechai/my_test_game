@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 076f473d165eade4cb6a79448b5a4d0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - Triangle: {fileID: -8903501366679561302, guid: e0e9300770f46fe4483bbb7b5d755768, type: 3}
+  - Square: {fileID: 21300000, guid: c2ffcdc1bc8086e478b407d741f86a99, type: 3}
+  - Fallen_triangle: {fileID: 8812317294156913870, guid: 5298798a34659284586f6f510d9078dd, type: 3}
+  - Fallen_square: {fileID: 7079706942598884927, guid: 7a9406bab35fe9548b80ab033e7cb399, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

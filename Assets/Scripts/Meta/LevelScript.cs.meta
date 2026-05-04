@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa972d16449ea694cbd7269a7b4b7c43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Square_up: {fileID: 4673437666433586405, guid: 1f5718c3655851d42b3ab0e395655f05, type: 3}
+  - Square_down: {fileID: 4673437666433586405, guid: c289a059c07514048b08eab4e865bcf7, type: 3}
+  - Square_left: {fileID: 4673437666433586405, guid: bb368869c090a534e8de4250d2577232, type: 3}
+  - Square_right: {fileID: 4673437666433586405, guid: b052ca7e66fec2147999d1ad133373af, type: 3}
+  - Triangle_down: {fileID: 8760287283420465199, guid: 6ef2eb017150c30428a9aa08a946e3d6, type: 3}
+  - Triangle_left: {fileID: 7085911724712813093, guid: 084d9067aca26b14bba0a2ac2f37a6ca, type: 3}
+  - Triangle_right: {fileID: -1443538582618961744, guid: c3316c899e189bb4e971b17215803731, type: 3}
+  - Square: {fileID: 7734193607875631305, guid: fe40bb79fc3babb4397b5f1e17fea51e, type: 3}
+  - Triangle: {fileID: -5042945518876689958, guid: 90c502f7acfa1c444aa1f7f242a6cc9e, type: 3}
+  - Fallen_square: {fileID: -5079337135189801929, guid: 92ee9478fdd164c4ea16b87238b25666, type: 3}
+  - Fallen_triangle: {fileID: 9173100855388417575, guid: 78105220857ffe64c8d95678092c3197, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

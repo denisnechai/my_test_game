@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: c692fb2c9eda7f74e87b1ba3fb958276
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rigidbox1: {instanceID: 0}
+  - Rigidbox2: {instanceID: 0}
+  - box1: {instanceID: 0}
+  - box2: {instanceID: 0}
+  - Square_up: {fileID: 4673437666433586405, guid: 1f5718c3655851d42b3ab0e395655f05, type: 3}
+  - Square_down: {fileID: 4673437666433586405, guid: c289a059c07514048b08eab4e865bcf7, type: 3}
+  - Square_left: {fileID: 4673437666433586405, guid: bb368869c090a534e8de4250d2577232, type: 3}
+  - Square_right: {fileID: 4673437666433586405, guid: b052ca7e66fec2147999d1ad133373af, type: 3}
+  - Triangle_down: {fileID: 8760287283420465199, guid: 6ef2eb017150c30428a9aa08a946e3d6, type: 3}
+  - Triangle_left: {fileID: 7085911724712813093, guid: 084d9067aca26b14bba0a2ac2f37a6ca, type: 3}
+  - Triangle_right: {fileID: -1443538582618961744, guid: c3316c899e189bb4e971b17215803731, type: 3}
+  - Fallen_Square_up: {fileID: 3064654015720822686, guid: 5e1ab3940787f66468c011b227a1a9c9, type: 3}
+  - Fallen_Square_down: {fileID: -2972407557005319818, guid: bc74cb63d9585494a9e6691e4759e53e, type: 3}
+  - Fallen_Square_left: {fileID: -4263414801607193932, guid: 9202e0ee7ed81c84dbce1e60f96ef105, type: 3}
+  - Fallen_Square_right: {fileID: -6539192109074698936, guid: 48a538770b6883147a71e043ecb2a759, type: 3}
+  - Fallen_Triangle_down: {fileID: 5420441913497767766, guid: a0762b39f01d5094782b27b25fcdbf4e, type: 3}
+  - Fallen_Triangle_left: {fileID: -7502953565692022638, guid: 3ec95848130a34a49b700c047d72bd54, type: 3}
+  - Fallen_Triangle_right: {fileID: 3756772476465289724, guid: b07fb2dcc79e6f841ad124751f5c9daa, type: 3}
+  - Box: {fileID: 206403789858500625, guid: feb1ff2b0ac189c41af90fb5c5185ff9, type: 3}
+  - Levelbox: {fileID: 206403789858500625, guid: a10400b62ab05cd4692db7e90c981bf3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
